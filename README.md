@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LVelkei, Laszlo Velkei from Nagykáta, Hungary.
 - 👀 I’m interested in coding and graphics design. I have experience in CorelDraw, Adobe InDesign, Photoshop, Illustrator.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Blender.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on exciting projects that involve designing and some coding...
 - 📫 How to reach me: lvelkeiofficial@gmail.com
 
 <!---
